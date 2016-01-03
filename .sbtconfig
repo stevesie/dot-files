@@ -1,0 +1,1 @@
+export JAVA_OPTS="-XX:MaxMetaspaceSize=4096m"
